@@ -2,8 +2,11 @@ import Link from "next/link"
 
 function Navbar() {
     const links = <>
-        <Link href="/">Home</Link>
+        <div className="flex gap-5">
+          <Link href="/">Home</Link>
         <Link href="/dashboard">Dashboard</Link>
+        <Link href="/products">Products</Link>
+        </div>
          
     </>
   return (

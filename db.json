@@ -1,0 +1,104 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless gghg Microphone",
+      "price": 2500,
+      "category": "Electronics",
+      "brand": "Sony",
+      "stock": 15,
+      "description": "High-quality wireless headphones with clear sound and comfortable ear cushions.",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e"
+    },
+    {
+      "id": 2,
+      "name": "Mechanical Keyboard",
+      "price": 4500,
+      "category": "Electronics",
+      "brand": "Logitech",
+      "stock": 10,
+      "description": "Durable mechanical keyboard with responsive keys, perfect for gaming and programming.",
+      "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3"
+    },
+    {
+      "id": 3,
+      "name": "Running Shoes",
+      "price": 3200,
+      "category": "Fashion",
+      "brand": "Nike",
+      "stock": 20,
+      "description": "Lightweight and comfortable running shoes designed for daily exercise and running.",
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff"
+    },
+    {
+      "id": 4,
+      "name": "Smart Watch",
+      "price": 5500,
+      "category": "Electronics",
+      "brand": "Samsung",
+      "stock": 8,
+      "description": "Modern smartwatch with fitness tracking, notifications, and health monitoring features.",
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30"
+    },
+    {
+      "id": 5,
+      "name": "Backpack",
+      "price": 1800,
+      "category": "Accessories",
+      "brand": "Adidas",
+      "stock": 25,
+      "description": "Spacious and stylish backpack suitable for school, college, travel, and everyday use.",
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62"
+    },
+    {
+      "id": 6,
+      "name": "Laptop",
+      "price": 85000,
+      "category": "Electronics",
+      "brand": "Dell",
+      "stock": 5,
+      "description": "Powerful laptop suitable for programming, office work, studying, and entertainment.",
+      "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853"
+    },
+    {
+      "id": 7,
+      "name": "Sunglasses",
+      "price": 1500,
+      "category": "Fashion",
+      "brand": "Ray-Ban",
+      "stock": 18,
+      "description": "Stylish sunglasses with UV protection and a lightweight frame for everyday use.",
+      "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083"
+    },
+    {
+      "id": 8,
+      "name": "Gaming Mouse",
+      "price": 2200,
+      "category": "Electronics",
+      "brand": "Razer",
+      "stock": 12,
+      "description": "Responsive gaming mouse with precise tracking and an ergonomic design for long gaming sessions.",
+      "image": "https://images.unsplash.com/photo-1527814050087-3793815479db"
+    },
+    {
+      "id": 9,
+      "name": "T-Shirt",
+      "price": 900,
+      "category": "Fashion",
+      "brand": "H&M",
+      "stock": 30,
+      "description": "Comfortable cotton T-shirt with a simple design, perfect for casual everyday wear.",
+      "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab"
+    },
+    {
+      "id": 10,
+      "name": "Coffee Maker",
+      "price": 6500,
+      "category": "Home",
+      "brand": "Philips",
+      "stock": 7,
+      "description": "Easy-to-use coffee maker that prepares fresh and delicious coffee quickly at home.",
+      "image": "https://images.unsplash.com/photo-1517668808822-9ebb02f2a0e6"
+    }
+  ]
+}
